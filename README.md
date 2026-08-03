@@ -6,16 +6,16 @@
 
 </div>
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou Analista de Dados no **Ministério da Fazenda**, onde atuo no ciclo completo do dado — extração, tratamento, modelagem, visualização e automação. Curso **Bacharelado em Ciência de Dados e Machine Learning** no UniCEUB e gosto de transformar dados em decisões mais rápidas e confiáveis. 📊
 
-- 🏛️ Crio e mantenho **4 dashboards em Power BI** que centralizam indicadores para **3 áreas** do Ministério, integrando APIs, planilhas e banco SQL.
-- 🤖 Automatizei em **Python** a busca de pedidos de acesso à informação, trocando checagens manuais por um processo agendado.
-- 🧩 Nas horas vagas, desenvolvo **sistemas de gestão (ERP e controle financeiro)**, reforçando minha base em modelagem e banco de dados relacional.
-- 🎯 Aberto a oportunidades como **Analista de Dados** ou **Cientista de Dados Júnior**.
+- Crio e mantenho **4 dashboards em Power BI** que centralizam indicadores para **3 áreas** do Ministério, integrando APIs, planilhas e banco SQL.
+- Automatizei em **Python** a busca de pedidos de acesso à informação, trocando checagens manuais por um processo agendado.
+- Nas horas vagas, desenvolvo **sistemas de gestão (ERP e controle financeiro)**, reforçando minha base em modelagem e banco de dados relacional.
+- Aberto a oportunidades como **Analista de Dados** ou **Cientista de Dados Júnior**.
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -27,21 +27,21 @@ Sou Analista de Dados no **Ministério da Fazenda**, onde atuo no ciclo completo
 
 </div>
 
-## 🎓 Certificações
+## Certificações
 
 - 📊 **Power BI** — Fundamentals, Serviço, Modelagem de Dados, Power Query e DAX — *Xperiun | Data Analytics*
 - 📈 **Storytelling e Visualização de Dados** — *Xperiun | Data Analytics*
 - 🎨 **Design de Dashboards com Figma** — *Xperiun | Data Analytics*
 - 🤖 **Inteligência Artificial e ChatGPT** — *Xperiun | Data Analytics*
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [Painel da Lei de Acesso à Informação](https://github.com/luccacampelo/Painel-da-Lei-de-Acesso-a-Informacao) | Extração e visualização de dados sobre pedidos de acesso à informação do Ministério da Fazenda. | Python |
 | [Painel Público da Ouvidoria](https://github.com/luccacampelo/Painel-Publico-da-Ouvidoria-do-Ministerio-da-Fazenda) | Indicadores da Ouvidoria: volume de demandas, tempo de resposta e temas. | Python |
 
-## 📈 GitHub
+## GitHub
 
 <div align="center">
 
