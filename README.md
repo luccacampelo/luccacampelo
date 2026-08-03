@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou Analista de Dados no **Ministério da Fazenda**, onde atuo no ciclo completo do dado — extração, tratamento, modelagem, visualização e automação. Curso **Bacharelado em Ciência de Dados e Machine Learning** no UniCEUB e gosto de transformar dados em decisões mais rápidas e confiáveis. 📊
+Sou Analista de Dados no **Ministério da Fazenda**, onde atuo no ciclo completo do dado — extração, tratamento, modelagem, visualização e automação. Curso **Bacharelado em Ciência de Dados e Machine Learning** no UniCEUB e gosto de transformar dados em decisões mais rápidas e confiáveis. 
 
 - Crio e mantenho **4 dashboards em Power BI** que centralizam indicadores para **3 áreas** do Ministério, integrando APIs, planilhas e banco SQL.
 - Automatizei em **Python** a busca de pedidos de acesso à informação, trocando checagens manuais por um processo agendado.
