@@ -27,7 +27,7 @@ Sou Analista de Dados no **Ministério da Fazenda**, onde atuo no ciclo completo
 
 </div>
 
-## Certificações
+## Certificados
 
 - 📊 **Power BI** — Fundamentals, Serviço, Modelagem de Dados, Power Query e DAX — *Xperiun | Data Analytics*
 - 📈 **Storytelling e Visualização de Dados** — *Xperiun | Data Analytics*
